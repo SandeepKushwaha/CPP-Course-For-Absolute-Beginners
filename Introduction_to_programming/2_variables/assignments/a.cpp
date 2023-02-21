@@ -1,15 +1,12 @@
-#include<iostream>
+#include <iostream>
 using namespace std;
 
-// ====================================================================================
-//  Create a program that declares and initializes variables of different data types, 
-//  such as integers, floating-point numbers and characters. 
-//  Display the values of each variable
-// ====================================================================================
+// What is the output of the following code?
 
 int main() {
-
-    // code here.
-
+    int a = 10;
+    int b = 20;
+    int c = a + b;
+    cout << c << endl;
     return 0;
 }

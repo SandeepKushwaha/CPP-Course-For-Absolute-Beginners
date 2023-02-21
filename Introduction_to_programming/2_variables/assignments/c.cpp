@@ -1,21 +1,17 @@
 #include<iostream>
 using namespace std;
 
-// ==================================================
-// What would be the output of the following code?
-// ==================================================
-
-// global variable
-int x = 10;
+// ========================================================================================
+//  Create a program that declares and initializes variables of different data types, 
+//  such as integers, floating-point numbers and characters. 
+//  Display the size of each variable in separate line.
+// ========================================================================================
+// Note:    For size of any variable use function 'sizeof(expression)' 
+//          where 'expression' can be a variable, data type, or a parenthesized expression.
 
 int main() {
 
-    // local variable
-    int a = 10;
-    int x = 23;
-
-    cout << a << endl;
-    cout << x << endl;
+    // code here.
 
     return 0;
 }
