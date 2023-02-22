@@ -50,12 +50,12 @@ int main() {
  * 
  *                                   Bitwise operators                           
  *                                   =================                            
- *                                   & (Binary AND) [example: &a]
- *                                   | (Binary OR) [example: |a]
- *                                   << (Binary left sift) [example: <<a]
- *                                   >> (Binary right sift) [example: >>a]
+ *                                   & (Binary AND) [example: a&n]
+ *                                   | (Binary OR) [example: a|b]
+ *                                   << (Binary left sift) [example: a<<b]
+ *                                   >> (Binary right sift) [example: a>>b]
  *                                   ~ (Binary One's Complement) [example: ~a]
- *                                   ^ (Binary XOR) [example: ^a]
+ *                                   ^ (Binary XOR) [example: a^b]
  * 
  *                                   Assignment operators                           
  *                                   =================                            
