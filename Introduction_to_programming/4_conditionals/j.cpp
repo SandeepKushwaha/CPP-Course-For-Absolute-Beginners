@@ -2,7 +2,7 @@
 using namespace std;
 
 int main() {
-    int choice;
+    int choice, square = 0;
     cout << "Enter a number (0 or 1) : ";
     cin >> choice;
 
@@ -18,7 +18,7 @@ int main() {
         case 1:
             cout << "enter a number: ";
             cin >> choice;
-            int square = choice * choice;
+            square = choice * choice;
             cout << "square of " << choice << " is " << square;
             break;
 
